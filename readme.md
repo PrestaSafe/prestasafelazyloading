@@ -10,5 +10,10 @@ BY:
 
 `<img class="lazy" data-src="path/to/image">`
 
+## for ajax content 
+
+use `$(document).trigger('needLazy')` for execute the plugin.
+
+
 And it works. 
 
